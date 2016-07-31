@@ -1,0 +1,159 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700);
+
+
+/* typography */
+
+
+
+hr {
+	border: solid #ddd;
+	clear: both;
+	border-width: 1px 0 0;
+	height: 0;
+	margin-bottom: .9em;
+}
+
+
+a:link {
+	color: #000;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #000;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+	color: #000;
+}
+
+.date {
+  color: #999;
+}
+
+mark {
+    background-color: #ccffcc;
+    color: #000;
+}
+
+ul {
+	list-style-type: square;
+}
+
+
+
+/* tags */
+
+li#tags {
+    padding: 2px;
+    width: 120px;
+    border: 1px solid #999;
+    margin: 0px 10px 0px 0px;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #999;
+    list-style-type: none;
+    border-radius: 0%;
+    display: inline;
+}
+
+#tags a:link {
+    text-decoration: none;
+    color: #999;
+}
+
+#tags a:visited {
+    text-decoration: none;
+    color: #999;
+}
+
+#tags a:active {
+    text-decoration: none;
+    color: #999;
+}
+
+
+/* menu items */
+
+nav {
+    padding-top: 1em;
+ }
+
+
+/* images */
+
+img.roundnew {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    margin-bottom: 0.5em;
+    float: left;
+}
+        
+
+img.profile {
+	padding: 4px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 3px 3px #ddd;
+	margin-bottom: 1em;
+    margin-right:2%;
+    float: left;
+}
+
+img {
+	max-width: 100%;
+}
+
+li.travpic {
+  width: 120px;
+  margin-right: 20px;
+  margin-bottom: 20px;margin-bottom: 20px;
+  list-style-type: none;
+  display: inline-block;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  text-align: center;
+  
+}
+
+.travpic a:link {
+  text-decoration: none;
+}
+
+.travpic a:visited {
+  text-decoration: none;
+}
+
+.travpic a:active {
+  text-decoration: none;
+}
+
+img.travpic {
+    border-radius: 10%;
+    border: 1px solid #ccc;
+    width: 120px;
+        
+}
+
+.navbar ul {
+  margin: 0;
+}
+
+.navbar li {
+  padding-left: 0.0em;
+  padding-right: 2.0em;
+  margin: 0;
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.0em;
+}
