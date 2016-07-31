@@ -154,6 +154,7 @@ img.travpic {
   padding-right: 2.0em;
   margin: 0;
   list-style-type: none;
+  display: inline-block;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.0em;
 }
