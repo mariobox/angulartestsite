@@ -162,7 +162,7 @@ img.travpic {
 
 @media (max-width: 400px) {
 
- .navbar a {
+ .navbar a li {
     display: block;
     text-align: center;
     padding: 10px 15px;
