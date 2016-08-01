@@ -1,5 +1,5 @@
-AngularJS Tutorial 1
-====================
+Basic Angular Site
+==================
 
 Based on [Nick Kaye](http://www.nickkaye.com)'s [tutorial](https://www.airpair.com/angularjs/building-angularjs-app-tutorial)
 
