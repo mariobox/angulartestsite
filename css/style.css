@@ -166,5 +166,6 @@ img.travpic {
     display: block;
     text-align: center;
     padding: 10px 15px;
+    width: 100%;
   } 
 }
